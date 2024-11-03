@@ -8,7 +8,7 @@ also this isnt a virus before u ask lol
 
 1. # Doesnt start up roblox when i run Multiclient!
 ANSWER: you need to configure ur roblox location
-orrrrrrr u can just use auto decect version
+orrrrrrr u can just use auto detect version
 
 2. # is it safe?
 ANSWER: yes it is fully open source lol 
